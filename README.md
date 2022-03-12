@@ -1,2 +1,2 @@
 # dipadmin
-DIP Admin
+DIP Admin practice
