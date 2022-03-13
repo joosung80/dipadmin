@@ -1,0 +1,23 @@
+.ingestionStatusContainer {
+  display: grid;
+  grid-template-areas:
+    "status status"
+    "date tableCount";
+  justify-items: center;
+  /* align-items: center; */
+}
+
+.status {
+  grid-area: status;
+  color: green;
+}
+
+.date {
+  grid-area: date;
+  font-size: 12px;
+}
+
+.tableCount {
+  grid-area: tableCount;
+  font-size: 12px;
+}

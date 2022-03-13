@@ -12,14 +12,14 @@ const Topbar = () => {
         {/* <div className="topLeft">left</div> */}
         <span className="logo">DIP Admin</span>
         <div className="topRight">
-          <div className="topbarIconContainer">
+          {/* <div className="topbarIconContainer">
             <NotificationsNoneIcon />
             <span className="topIconBadge">2</span>
           </div>
           <div className="topbarIconContainer">
             <LanguageIcon />
             <span className="topIconBadge">2</span>
-          </div>
+          </div> */}
           <div className="topbarIconContainer">
             <SettingsIcon />
           </div>
